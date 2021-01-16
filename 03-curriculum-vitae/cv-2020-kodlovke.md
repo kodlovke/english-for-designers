@@ -34,14 +34,6 @@ Grafika a mediální design
 Grammar School of professor Jan Patočka
 General studies**<br >
 
-## Experience
-
-2019–2020<br > 
-**Yellow Shapes, s.r.o.**<br > 
-Packaging Design
-
-**Kreativní Kancl**<br > 
-graphics, advertising, preparation of visual styles and campaigns
 
 ## Languages
 
