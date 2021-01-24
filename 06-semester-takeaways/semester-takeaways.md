@@ -1,4 +1,4 @@
-### Five things I learn this semester
+### Five things I learned this semester
 
 1)	At first, write your thoughts/ideas on paper. 
 2)	Grammarly and Hemingway are apps, which can help me improve my English. 
