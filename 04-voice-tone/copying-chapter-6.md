@@ -16,4 +16,4 @@ But they are not the ones who invented the logo, they are just copying it.
 New York has tried several times to add a trademark logo, thus stopping copying. By 2005, they had tried more than 3,000 times, each time in vain. 
 After the September 11 Terrorist attacks, the logo has become even more of a symbol, creating unity between the public.
 
-<img src="./images/iloveny.png" alt="iloveny" width="1000"/>
+<img src="./iloveny.png" alt="iloveny" width="1000"/>
