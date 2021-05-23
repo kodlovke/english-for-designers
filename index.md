@@ -15,7 +15,7 @@
    
 - [Semestr Takeways](06-semester-takeaways/semester-takeaways.md)
 
-Summer Semester
+## Summer Semester
 
 - [Clarity First](07-clarity-first/thesis-outline.md)
 - [Abstract Draft](08-abstract-draft/abstract-draft.md)
